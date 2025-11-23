@@ -103,7 +103,7 @@ Download your QR code in multiple formats:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/qr-code.git
+git clone https://github.com/Amanrajputtripurari/qr-code.git
 cd qr-code
 ```
 
@@ -260,8 +260,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/qr-code/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/qr-code/discussions)
+- **Issues**: [GitHub Issues](https://github.com/Amanrajputtripurari/qr-code/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Amanrajputtripurari/qr-code/discussions)
 
 ---
 
